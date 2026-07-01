@@ -1,0 +1,7 @@
+# robots.txt for mahflaz.com
+# https://www.mahflaz.com/robots.txt
+
+User-agent: *
+Allow: /
+
+Sitemap: https://www.mahflaz.com/sitemap.xml
